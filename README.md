@@ -1,10 +1,3 @@
-# Single Page CV
+## Live Demo
 
-A clean, single-page CV built using HTML and CSS.
-
-## 🚀 Live Page
-View it here: https://tribikram11.github.io/single-page-cv/
-
-## 💻 Run Locally
-1. Clone the repository:
-    https://github.com/Tribikram11/single-page-cv
+You can view the live version of my single-page CV here: [https://tribikram11.github.io/single-page-cv/](https://tribikram11.github.io/single-page-cv/)
