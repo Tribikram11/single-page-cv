@@ -8,6 +8,5 @@ View it here: https://tribikram11.github.io/single-page-cv/
 
 ## 💻 Run Locally
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/single-page-cv.git
-   cd single-page-cv
+    https://github.com/your-username/single-page-cv.git
+   
