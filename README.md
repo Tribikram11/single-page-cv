@@ -4,7 +4,7 @@
 A clean, single-page CV built using HTML and CSS.
 
 ## 🚀 Live Page
-View it here: [https://your-username.github.io/single-page-cv/](https://your-username.github.io/single-page-cv/)
+View it here: https://tribikram11.github.io/single-page-cv/
 
 ## 💻 Run Locally
 1. Clone the repository:
